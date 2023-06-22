@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @nikolasarac
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning QA
+- 🌱 I’m currently learning QA @ IT Bootcamp
+- Skills gained on IT Bootcamp: Java, SQL, PostgreSQL Postman, API Testing, Selenium, TestNG, POM, Gherkin, Jira, TestRail, IntelliJ Writing test cases & bug reports
