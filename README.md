@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @nikolasarac
-- 🌱 I’m currently learning QA @ IT Bootcamp
+- 👋 Hi, I’m @nikolasarac, Junior QA Engineer
+- 🌱 Finished Software Testing (Manual and automation) @ IT Bootcamp
 - Skills gained on IT Bootcamp: Java, SQL, PostgreSQL Postman, API Testing, Selenium, TestNG, POM, Gherkin, Jira, TestRail, IntelliJ Writing test cases & bug reports
+- Interested in learning about software testing and frontend technologies
